@@ -8,6 +8,7 @@ pipeline {
 	        MINOR = '1'
 	        //Orchestrator Services
 	        UIPATH_ORCH_URL = "https://rpa110"
+		UIPATH_ORCH_LOGICAL_NAME = "35b20a0a-324b-4792-8d48-ce2197101e8b"
 	        UIPATH_ORCH_TENANT_NAME = "Default"
 	        UIPATH_ORCH_FOLDER_NAME = "Default"
 	    }
